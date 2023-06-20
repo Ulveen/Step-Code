@@ -1,0 +1,1 @@
+window.location = "./HomePage/home.html"
